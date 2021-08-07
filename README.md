@@ -1,1 +1,1 @@
-This respository holds the compiled output of the firetools project, and is published to https://firetools.dev on commit. All code is released under the MIT license. See the LICENSE file for more details.
+This respository holds the compiled output of the firetools project, and is published to https://firetools.dev on commit. All code is released under an MIT license. See the LICENSE file for more details.
